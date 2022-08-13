@@ -10,7 +10,7 @@ pip install -r requirements.txt
 ```sh
 python manage.py runserver
 ```
-- Você deve estar no diretorio mysite/
+- Você deve estar no diretorio Polls-Django-master/mysite
 
 # Acesso ao servidor e usuario admin
 - URL: 127.0.0.1:8000/pools
