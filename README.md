@@ -5,7 +5,7 @@ Projeto proposto na Doc do Django para aprendizado do Framework
 ```sh
 pip install -r requirements.txt
 ```
-# Adicione uma SECRETE KEY no arquivo mysite/.env
+# Adicione uma SECRET KEY no arquivo mysite/.env
 ```sh
 /mysite/mysite/.env.example
 ```
