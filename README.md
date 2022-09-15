@@ -18,6 +18,6 @@ python manage.py runserver
 
 # Acesso ao servidor e usuario admin
 - URL: 127.0.0.1:8000/pools
-- Admin: 127.0.0.1:800/admin
+- Admin: 127.0.0.1:8000/admin
 - user: root
 - password: root
